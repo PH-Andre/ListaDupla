@@ -6,6 +6,6 @@ public class Nodo {
     }
 @Override
    public String toString() {
-        return " "+ elem ;
+        return " "+ elem;
     }
 }
